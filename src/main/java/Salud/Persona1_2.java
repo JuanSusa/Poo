@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Jennifer
  */
-public class Persona {
+public class Persona1_2 {
 
     Scanner sc = new Scanner(System.in);
     String tipoDoc;
